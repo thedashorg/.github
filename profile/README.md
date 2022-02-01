@@ -1,12 +1,3 @@
-## Hi there 👋
+# Hi, we're D→SH 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're **D→SH**, an independent student-ran software startup that incorporates creativity and good vibes into what we create. We're a team of developers and designers dedicated to building quality, open-source products just for the fun of it. Our main mission is to eventually create a fresh, open-source project every month, hopefully building a portfolio of useful products while doing so. Currently, we're set on launching on **Feb 25, 2022** 🚀
